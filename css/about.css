@@ -55,7 +55,7 @@ body {
   }
   
   .about-content {
-    display: flex;
+    display: inline-flex;
     flex-wrap: wrap;
     gap: 2rem;
     align-items: center;
