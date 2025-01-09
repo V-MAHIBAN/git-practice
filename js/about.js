@@ -1,5 +1,4 @@
-document.addEventListener('DOMContentLoaded', () => {
-    console.log('About page loaded successfully!');
-    // Add any interactivity or animations here
-  });
-  
+// Add animations or dynamic interactions as needed
+document.addEventListener("DOMContentLoaded", () => {
+  console.log("Page is fully loaded and functional!");
+});
